@@ -5,4 +5,7 @@ The page will have a pretty simple design. Focusing mostly on the restaurants th
 
 Each restaurant will have at least one image, trustpilot star rating and brief review on the page.
 
+At the top of the "body" of the page there will be a image carousel showing extra photos of the restaurants in descending order of their ranking.
+clicking on an image will send you to the div of the restaurant.
+
 It will also include a nav bar on the top of the page, and a footer including the github page and some basic site information.
