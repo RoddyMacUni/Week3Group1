@@ -1,0 +1,11 @@
+This page contains information about monuments in Glasgow
+
+The top of the site would contain a header with the site's logo and a navbar with the other pages as buttons on the bar
+
+The top of the page would contain a carousel of photos of the top 10 most visited monuments
+
+Below this there would be a grid of images and names of the top monuments and their Trustpilot rating.
+
+When one of either the carousel or the grid elements are clicked the site would take you to a page containing info on that monument (open/closed, cost per ticket, Trustpilot rating, name, location)
+
+At the bottom of the site there would be a footer with the pages as links and some info about the licence
