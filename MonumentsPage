@@ -8,4 +8,6 @@ Below this there would be a grid of images and names of the top monuments and th
 
 When one of either the carousel or the grid elements are clicked the site would take you to a page containing info on that monument (open/closed, cost per ticket, Trustpilot rating, name, location)
 
+The Monument specific page would also contain a quick summary of the monument's history and a link to it's wikipedia page
+
 At the bottom of the site there would be a footer with the pages as links and some info about the licence
