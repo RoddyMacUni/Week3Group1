@@ -1,0 +1,5 @@
+This page shows all the attractions in a city
+
+Along the top of the page there is a bar containing all the type of attractions (hotels, sights, restaurants, monuments etc)
+
+Below this is a Google Maps style navigable map that shows the locations of each attraction, when each attraction is hovered over the essential details (Open/Closed, type of attraction, name, rating) of the attraction are shown in a box with a link to the more detailed page within the site.
